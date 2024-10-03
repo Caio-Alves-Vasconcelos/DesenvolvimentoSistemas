@@ -1,0 +1,12 @@
+a) Crie um arquivo de texto com o nome “Comandos git” e digite os comandos utilizados na aula e para que
+serve, após isso, realizar o envio do arquivo para a pasta DesenvolvimentoSistemas.
+
+1. git init - inicializa a pasta para o software de versionamento
+2. git add "arquivo"  - transfere o arquivo para a área de transferência
+3. git add . - transfere todos os arquivos para a área de transferência
+4. git commit -m "" - envia uma mensagem informando o que foi feito de alterações naquela versão
+5. git push -u origin master - empurra as informações e tudo o que foi feito ou alterado para o servidor remoto, no GitHUb ('origin' e 'master' podem ter nomes diferentes)
+6. git status - verifica o status dos arquivos e pastas do repositório, verificando se foram salvas ou não
+7. cd .. - sai de uma pasta
+8. cd "pasta" - entra em determinada pasta
+9. mkdir "nome" - cria um arquivo ou pasta
